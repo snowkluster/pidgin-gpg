@@ -11,7 +11,7 @@ https://github.com/Draghtnod/Pidgin-GPG/releases
 
 Building
 --------
-    apt install libpurple-dev libgpgme11-dev libtool
+    apt install libpurple-dev libgpgme11-dev libtool pidgin-dev
     autoreconf -i
     ./configure
     make
